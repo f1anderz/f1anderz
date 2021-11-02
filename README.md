@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f1anderz
-- 👀 I’m interested in 
-- 🌱 I’m currently learning PHP and ADO.NET
+- 👀 I’m interested in web-programming
+- 🌱 I’m currently learning Angular, React and ADO.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
